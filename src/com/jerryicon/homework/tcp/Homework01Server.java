@@ -1,4 +1,4 @@
-package com.jerryicon.homework;
+package com.jerryicon.homework.tcp;
 
 import java.io.*;
 import java.net.ServerSocket;
