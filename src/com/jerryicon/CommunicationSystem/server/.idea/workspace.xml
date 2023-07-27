@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="42152d42-52a0-4dd3-bf94-928d0f7dcf79" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/../client/client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/com/jerryicon/common/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/com/jerryicon/common/MessageType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/com/jerryicon/common/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/com/jerryicon/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/com/jerryicon/controller/OnlineController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/com/jerryicon/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/com/jerryicon/server/LoginServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/com/jerryicon/server/OnlineServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/com/jerryicon/thread/ClientConnectServerThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/com/jerryicon/thread/ManageClientConnectServerThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/com/jerryicon/utils/ReadUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/com/jerryicon/view/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/com/jerryicon/view/View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jerryicon/common/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jerryicon/common/MessageType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jerryicon/common/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jerryicon/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jerryicon/server/OnlineServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jerryicon/server/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jerryicon/thread/ManageClientThreads.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jerryicon/thread/ServerConnectClientThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jerryicon/utils/SocketUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../util/StreamUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../utils/StreamUtil.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2T9CYV8UQHsXi6IUo15hncDfPHp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/project/MyCollection/socket/src/com/jerryicon/CommunicationSystem/client",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.15407854",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\project\MyCollection\socket\src\com\jerryicon\CommunicationSystem\server\src\com\jerryicon\server" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.com.jerryicon.main">
+    <configuration name="com.jerryicon.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jerryicon.main" />
+      <module name="server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jerryicon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jerryicon.server.main" />
+      <module name="server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jerryicon.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.com.jerryicon.main" />
+        <item itemvalue="应用程序.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="42152d42-52a0-4dd3-bf94-928d0f7dcf79" name="更改" comment="" />
+      <created>1690445957445</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690445957445</updated>
+      <workItem from="1690445958543" duration="33000" />
+      <workItem from="1690446001318" duration="378000" />
+      <workItem from="1690446385389" duration="3626000" />
+      <workItem from="1690450056337" duration="7637000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
