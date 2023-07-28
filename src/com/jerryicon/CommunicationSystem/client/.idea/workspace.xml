@@ -5,30 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a7cc7b56-f66d-4731-be16-69ea548fa1e5" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/client.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jerryicon/common/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jerryicon/common/MessageType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jerryicon/common/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jerryicon/controller/LoginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jerryicon/controller/OnlineController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jerryicon/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jerryicon/server/LoginServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jerryicon/server/OnlineServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jerryicon/thread/ClientConnectServerThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jerryicon/thread/ManageClientConnectServerThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jerryicon/utils/ReadUtility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jerryicon/view/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jerryicon/view/View.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../server/src/com/jerryicon/common/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../server/src/com/jerryicon/common/MessageType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../server/src/com/jerryicon/common/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../server/src/com/jerryicon/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../server/src/com/jerryicon/server/OnlineServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../server/src/com/jerryicon/server/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../server/src/com/jerryicon/thread/ManageClientThreads.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../server/src/com/jerryicon/thread/ServerConnectClientThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../server/src/com/jerryicon/utils/SocketUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../util/StreamUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../utils/StreamUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../server/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/server.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../server/server.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +35,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "E:/project/MyCollection/socket/src/com/jerryicon/CommunicationSystem/client",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -90,6 +72,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="client" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="client" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="应用程序.main" />
@@ -105,6 +100,9 @@
       <option name="presentableId" value="Default" />
       <updated>1690450652729</updated>
       <workItem from="1690450653730" duration="6742000" />
+      <workItem from="1690514353528" duration="26000" />
+      <workItem from="1690525258308" duration="47000" />
+      <workItem from="1690525462141" duration="102000" />
     </task>
     <servers />
   </component>

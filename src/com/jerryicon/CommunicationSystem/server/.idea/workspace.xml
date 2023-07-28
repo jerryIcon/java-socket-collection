@@ -5,30 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42152d42-52a0-4dd3-bf94-928d0f7dcf79" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/../client/client.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../client/src/com/jerryicon/common/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../client/src/com/jerryicon/common/MessageType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../client/src/com/jerryicon/common/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../client/src/com/jerryicon/controller/LoginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../client/src/com/jerryicon/controller/OnlineController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../client/src/com/jerryicon/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../client/src/com/jerryicon/server/LoginServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../client/src/com/jerryicon/server/OnlineServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../client/src/com/jerryicon/thread/ClientConnectServerThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../client/src/com/jerryicon/thread/ManageClientConnectServerThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../client/src/com/jerryicon/utils/ReadUtility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../client/src/com/jerryicon/view/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../client/src/com/jerryicon/view/View.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jerryicon/common/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jerryicon/common/MessageType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jerryicon/common/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jerryicon/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jerryicon/server/OnlineServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jerryicon/server/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jerryicon/thread/ManageClientThreads.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jerryicon/thread/ServerConnectClientThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jerryicon/utils/SocketUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../util/StreamUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../utils/StreamUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../client/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +34,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/project/MyCollection/socket/src/com/jerryicon/CommunicationSystem/client",
+    "last_opened_file_path": "E:/project/MyCollection/socket/src/com/jerryicon/CommunicationSystem/server",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -63,6 +42,7 @@
     "project.structure.last.edited": "模块",
     "project.structure.proportion": "0.15407854",
     "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -98,6 +78,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="应用程序.com.jerryicon.main" />
@@ -117,6 +108,10 @@
       <workItem from="1690446001318" duration="378000" />
       <workItem from="1690446385389" duration="3626000" />
       <workItem from="1690450056337" duration="7637000" />
+      <workItem from="1690514381229" duration="17000" />
+      <workItem from="1690514443316" duration="18000" />
+      <workItem from="1690514593631" duration="635000" />
+      <workItem from="1690525307570" duration="146000" />
     </task>
     <servers />
   </component>
