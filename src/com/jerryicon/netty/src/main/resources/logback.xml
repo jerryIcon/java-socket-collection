@@ -9,7 +9,7 @@
         </encoder>
     </appender>
 
-    <logger name="com.jerry.netty" level="DEBUG" addtivity="false">
+    <logger name="com.jerryicon.netty" level="DEBUG" addtivity="false">
         <appender-ref ref="STDOUT" />
     </logger>
 
